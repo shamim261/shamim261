@@ -1,6 +1,7 @@
-### Hi there 👋, I am Shamim
-#### Web Developer
-![Web Developer](https://i.ibb.co/Ptd2Q0Y/310207442-1534938816936811-6438531315391889750-n.jpg)
+### Hi there 👋, 
+## I am Shamim
+#### Dreamer | Tech Enthusiast | Web Coder
+![Web Developer](https://i.ibb.co/XzgvwxF/IMG-0505.jpg)
 
 
 Skills: PHP / WORDPRESS / JS / HTML / CSS
