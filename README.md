@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shamim
 #### Web Developer
-![Web Developer](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/310207442_1534938816936811_6438531315391889750_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG_Xo9NmcZwg9U7T7rR4IFCLskVaPGR0-IuyRVo8ZHT4tpZN11smDlnUyOz1bdmPv3OXF87l5YA23rB6bCvwT4r&_nc_ohc=Ph4utit9KloAX-0ts26&_nc_ht=scontent.fdac138-1.fna&oh=00_AfCU-uSXavYVEqn7ve9dgqdxVBFmoLGqgw7Kqoi3k6mfGw&oe=636D1E22)
+![Web Developer](https://drive.google.com/u/0/uc?id=1cD7Yu18PdKXIQwUAC7Y-Gyx0xen3fc7i&export=download)
 
 
 Skills: PHP / WORDPRESS / JS / HTML / CSS
