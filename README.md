@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shamim
 #### Web Developer
-![Web Developer](https://drive.google.com/u/0/uc?id=1cD7Yu18PdKXIQwUAC7Y-Gyx0xen3fc7i&export=download)
+![Web Developer](https://drive.google.com/u/0/uc?id=1cD7Yu18PdKXIQwUAC7Y-Gyx0xen3fc7i)
 
 
 Skills: PHP / WORDPRESS / JS / HTML / CSS
