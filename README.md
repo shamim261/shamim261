@@ -1,7 +1,10 @@
 ### Hi there 👋, 
 ## I am Shamim
 #### Dreamer | Tech Enthusiast | Web Coder
-![Web Developer](https://i.ibb.co/XzgvwxF/IMG-0505.jpg)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim261&layout=compact" />
+<!-- ![Web Developer](https://i.ibb.co/XzgvwxF/IMG-0505.jpg) -->
+
 
 
 Skills: PHP / WORDPRESS / JS / HTML / CSS
