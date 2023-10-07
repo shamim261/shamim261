@@ -2,7 +2,7 @@
 ## I am Shamim
 #### Dreamer | Tech Enthusiast | Web Coder
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim261&layout=compact&theme=dark" />
+<img src="https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=shamim261&layout=compact&theme=dark" />
 <!-- ![Web Developer](https://i.ibb.co/XzgvwxF/IMG-0505.jpg) -->
 
 
