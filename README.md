@@ -7,7 +7,7 @@
 
 
 
-Skills: PHP / WORDPRESS / JS / HTML / CSS
+
 
 
 
