@@ -1,4 +1,14 @@
-# Shamim Here
+# 👩‍💻 Shamim Reza
+
+**`A Full-stack developer `**
+
+
+Hi, this is shamim—a developer specializing in ReactJs, NodeJs, NextJs, and MongoDB.
+
+My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
+
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/5H4M1M.HUNT3R.official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamim_asholei_) 
